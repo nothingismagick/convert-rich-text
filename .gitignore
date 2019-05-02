@@ -4,3 +4,4 @@ lib-cov
 coverage
 node_modules
 *.log
+.vscode
