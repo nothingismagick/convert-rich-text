@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/voxmedia/convert-rich-text",
   "dependencies": {
-    "jsdom": "^11.6.2",
-    "lodash": "^3.6.0"
+    "jsdom": "^16.1.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "chai": "^2.2.0",
-    "jshint": "^2.7.0",
+    "jshint": "^2.11.0",
     "karma": "^0.13.22",
     "karma-chai": "^0.1.0",
     "karma-mocha": "^0.2.2",
